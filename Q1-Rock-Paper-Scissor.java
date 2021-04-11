@@ -1,5 +1,7 @@
-//Nam (Logan) Nguyen
-//IT 141 -- Java I -- Green River college
+/* Nam Phu Nguyen (Logan)
+   CS141 
+   Programing Assignment
+   */
 
 import java.util.*;
 class Q1{
