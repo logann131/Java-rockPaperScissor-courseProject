@@ -1,7 +1,8 @@
 /* Nam Phu Nguyen (Logan)
    CS141 
    Programing Assignment
-   */
+
+*/
 
 import java.util.*;
 class Q1{
