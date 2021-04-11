@@ -1,4 +1,5 @@
-
+//Nam (Logan) Nguyen
+//IT 141 -- Java I -- Green River college
 
 import java.util.*;
 class Q1{
